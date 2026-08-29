@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link 
+    rel="stylesheet" 
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+    <title>Typing Speed Test</title>
+
+    <link rel="icon" href="./image/TST.png">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!----------Header---------->
+    <header>
+        <div class="iconContainer">
+            <img src="./image/icon.png " class="icon" alt="">
+            
+        </div>
+    </header>
+    <!--------------------------->
+
+    <!----------App---------->
+    <div class="container" id="container">
+
+        <h1 class="titleApp">Typing Speed Test</h1>
+        <p class="btmtitleApp">
+            Practice typing with programming facts
+        </p>
+        <h3 ></h3>
+
+        <div id="text"></div>
+        <div id="timer">0.00</div>
+        <br>
+        <textarea 
+            id="input"
+            placeholder="Start typing here..."
+        ></textarea>
+
+        <button id="newTextBtn" class="btn" >
+            New Text
+        </button>
+        <button id="resetBtn" class="btn" >
+            reset
+        </button>
+        <button id="showRes" class="btn" >
+            score board
+        </button>
+
+    </div>
+    <!------------------------>
+
+
+   <!----------modal---------->
+    <div id="modal" >
+
+        <div class="modalContent">
+            <button id="btnClose" class="btnClose">
+                X
+            </button>
+            <br>
+            <ul id="scoreBoard">
+                
+            </ul>
+            <button id="clearSave" class="btn">
+                clear history
+            </button>
+        
+        </div>
+    </div>
+    <!----------------------->
+
+
+    <!----------Footer---------->
+    <footer class="footer">
+    <p>
+        © 2026 All Rights Reserved
+    </p>
+
+    <a 
+        href="https://github.com/parsasdg8" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        class="github-link"
+        aria-label="GitHub"
+    >
+        <i class="fa-brands fa-github"></i>
+        <span>parsasdg8</span>
+    </a>
+    </footer>
+    <!---------------------------->
+
+
+    <!------------------------>
+    <script src="script.js"></script>
+    <!------------------------>
+
+</body>
+</html>
