@@ -301,15 +301,17 @@ Browser-based data storage
 Basic application logic
 
 The programming facts also make the typing practice more useful for developers by combining typing practice with programming-related knowledge.
+```
+
 
 👨‍💻 Creator
 
 Parsa Sadeghi
 
-GitHub: @parsasdg8
-
-
+<a href="https://github.com/parsasdg8"> <img src="https://img.shields.io/badge/GitHub-parsasdg8-181717?style=for-the-badge&logo=github" alt="GitHub"> </a>
 <a href="https://www.linkedin.com/in/parsa-sadeghi-141a0b389?utm_source=share_via&utm_content=profile&utm_medium=member_android"> <img src="https://img.shields.io/badge/LinkedIn-Parsa%20Sadeghi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> 
+
+
 
 ⭐ Project
 
