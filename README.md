@@ -7,6 +7,13 @@ A simple and interactive typing speed test built with HTML, CSS, and Vanilla Jav
 Instead of typing random sentences, this project uses programming facts as typing exercises. Each test randomly selects a programming fact from a JSON file, measures the time required to type it, and stores the result locally in the browser.
 
 ---
+## 🌐 Live Demo
+
+You can try the Typing Speed Test directly in your browser without downloading or installing anything.
+
+👉 **[Try the Live Demo](https://typingspeedtest-tst.netlify.app/)**
+
+---
 
 ## 📸 Preview
 
