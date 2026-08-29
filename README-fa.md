@@ -1,8 +1,4 @@
----
 
-# `README-fa.md`
-
-```markdown
 # ⌨️ تست سرعت تایپ با فکت‌های برنامه‌نویسی
 
 [English](README.md) | [فارسی](README-fa.md)
